@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width : 100%;
+    margin: 0;
+    font-size: larger;
+}
+
+#input{
+    width: 350px;
+    border-radius: 20px;
+    font-size: larger;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px olive;
+    border-radius: 30px;
+}
